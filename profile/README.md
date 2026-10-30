@@ -6,7 +6,7 @@ Agora is a B2B platform for buying transport and industrial packaging in Moscow.
 
 | Repository | Role |
 | --- | --- |
-| agora | Storefront and buyer AI chat (Next.js) |
+| agora | Storefront: catalogue, supplier finder, request checkout (Next.js) |
 | agora-back | REST API, catalogue, grounded AI matching (Laravel, PostgreSQL) |
 | [agora-admin](https://github.com/Agora-hg/agora-admin) | Admin panel: suppliers, offers, AI test bench (React) |
 | agora-tgbot | Telegram notifications for admins and suppliers (FastAPI) |
